@@ -17,34 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🎓 About Me
+
 I am a fourth year PhD student from [Department of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn), supervised by [Prof. Bing Hu](https://person.zju.edu.cn/hubing). I received my BE degree from [Department of Computer Science and Engineering](http://www.cse.neu.edu.cn), [Northeastern University](http://www.neu.edu.cn) in 2021. Currently, I am a visiting research scholar in [5G/6GIC](https://www.surrey.ac.uk/institute-communication-systems/5g-6g-innovation-centre) of [ICS](https://www.surrey.ac.uk/institute-communication-systems) at [University of Surrey](https://www.surrey.ac.uk/), supervised by [Prof. Rahim Tafazolli](https://www.surrey.ac.uk/people/rahim-tafazolli) (FREng, FIEEE), [Prof. Pei Xiao](https://www.surrey.ac.uk/people/pei-xiao) and [Dr. Mahdi Boloursaz Mashhadi](https://www.surrey.ac.uk/people/mahdi-boloursaz-mashhadi), and sponsored by China Scholarship Council (CSC).
 
 My research interests include Distributed Machine Learning System, LLM Distributed Training/Inference and Federated/Split Learning. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 Research Interests
+# 🚀 Research Interests
 - Distributed Machine Learning System 
 - LLM Distributed Training/Inference
 - Federated/Split Learning 
 
 # 📝 Publications 
 ## 2025
-- **Y. Q. Gao**, Z. Zhang, B. Hu, M. B. Mashhadi, A. L. Jin and P. Xiao, “NetPlacer+: Model Parallelism based on Load Balance in Distributed Deep Learning,” *IEEE Transactions on Emerging Topics in Computational Intelligence*, , Accepted on Feb. 25, 2025. (<span style="color:red;">SCI Q1, IF=5.3</span>)
-- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, M. Bennis, “[PipeSFL: A Fine-Grained Parallelization Framework for Split Federated Learning on Heterogeneous Clients](https://ieeexplore.ieee.org/document/10740645),” *IEEE Transactions on Mobile Computing*, vol. 24, no. 3, pp. 1774-1791, 2025. (<span style="color:red;">CCF A, SCI Q1, IF=7.7</span>)
-- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, R. Tafazolli, and M. Debbah, “[A Dynamic Sliding Window based Tensor Communication Scheduling Framework for Distributed Deep Learning](https://ieeexplore.ieee.org/document/10816583)," *IEEE Transactions on Network Science and Engineering*, vol. 12, no. 2, pp. 1080-1095, 2025. (<span style="color:red;">SCI Q1, IF=6.7</span>)
+- **Y. Q. Gao**, Z. Zhang, B. Hu, M. B. Mashhadi, A. L. Jin and P. Xiao, “NetPlacer+: Model Parallelism based on Load Balance in Distributed Deep Learning,” *IEEE Transactions on Emerging Topics in Computational Intelligence*, , Accepted on Feb. 25, 2025. (<span style="color:red;">SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, M. Bennis, “[PipeSFL: A Fine-Grained Parallelization Framework for Split Federated Learning on Heterogeneous Clients](https://ieeexplore.ieee.org/document/10740645),” *IEEE Transactions on Mobile Computing*, vol. 24, no. 3, pp. 1774-1791, 2025. (<span style="color:red;">CCF A, SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, R. Tafazolli, and M. Debbah, “[A Dynamic Sliding Window based Tensor Communication Scheduling Framework for Distributed Deep Learning](https://ieeexplore.ieee.org/document/10816583)," *IEEE Transactions on Network Science and Engineering*, vol. 12, no. 2, pp. 1080-1095, 2025. (<span style="color:red;">SCI Q1</span>)
 
 ## 2024
-- D. Yang, **Y. Q. Gao**, B. Hu, A. L. Jin, W. Wang, and Y. You, “[GWPF: Communication-Efficient Federated Learning with Gradient-Wise Parameter Freezing](https://www.sciencedirect.com/science/article/pii/S1389128624007187),” *Elsevier Computer Networks*, vol. 255, no. 110886, 2024. (<span style="color:red;">CCF B, SCI Q1, IF=4.4</span>)
-- M. H. Chang, H. J. Lv, **Y. Q. Gao**, B. Hu, W. Wang, and Z. Yang, “[DGS: An Efficient Delay-Guaranteed Scheduling Framework for Wireless Deterministic Networking](https://ieeexplore.ieee.org/document/10669629),” *IEEE Transactions on Network and Service Management*, vol. 21, no. 6, pp. 6582-6596, 2024. (<span style="color:red;">CCF C, SCI Q1, IF=4.7</span>)
-- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, P. Xiao, and C. M. Wu, “[US-Byte: An Efficient Communication Framework for Scheduling Unequal-sized Tensor Blocks in Distributed Deep Learning](https://ieeexplore.ieee.org/abstract/document/10314018),” *IEEE Transactions on Parallel and Distributed Systems*, Vol. 35, Issue. 1, pp. 123-139, 2024. (<span style="color:red;">CCF A, SCI Q1, IF=5.6</span>)
+- D. Yang, **Y. Q. Gao**, B. Hu, A. L. Jin, W. Wang, and Y. You, “[GWPF: Communication-Efficient Federated Learning with Gradient-Wise Parameter Freezing](https://www.sciencedirect.com/science/article/pii/S1389128624007187),” *Elsevier Computer Networks*, vol. 255, no. 110886, 2024. (<span style="color:red;">CCF B, SCI Q1</span>)
+- M. H. Chang, H. J. Lv, **Y. Q. Gao**, B. Hu, W. Wang, and Z. Yang, “[DGS: An Efficient Delay-Guaranteed Scheduling Framework for Wireless Deterministic Networking](https://ieeexplore.ieee.org/document/10669629),” *IEEE Transactions on Network and Service Management*, vol. 21, no. 6, pp. 6582-6596, 2024. (<span style="color:red;">CCF C, SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, P. Xiao, and C. M. Wu, “[US-Byte: An Efficient Communication Framework for Scheduling Unequal-sized Tensor Blocks in Distributed Deep Learning](https://ieeexplore.ieee.org/abstract/document/10314018),” *IEEE Transactions on Parallel and Distributed Systems*, Vol. 35, Issue. 1, pp. 123-139, 2024. (<span style="color:red;">CCF A, SCI Q1</span>)
 
 ## 2023
 - **Y. Q. Gao**, Z. C. Zhang, B. Hu, A. L. Jin, and C. M. Wu, “[OF-WFBP: A Near-optimal Communication Mechanism for Tensor Fusion in Distributed Deep Learning](https://www.sciencedirect.com/science/article/pii/S0167819123000595),” *Elsevier Parallel Computing*, Vol. 118, No.103053, pp. 1-13, 2023. (<span style="color:red;">CCF B</span>)
 
 ## 2020
-- **Y. Q. Gao**, F. Luan, J. Q. Pan, X. Li, and Y. D. He, “FPGA-Based Implementation of Stochastic Configuration Networks for Regression Prediction,” MDPI SENSORS, vol. 20, no. 15, pp. 4191-4204, 
-2020. (SCI Q1)
+- **Y. Q. Gao**, F. Luan, J. Q. Pan, X. Li, and Y. D. He, “[FPGA-Based Implementation of Stochastic Configuration Networks for Regression Prediction](https://www.mdpi.com/1424-8220/20/15/4191),” MDPI SENSORS, vol. 20, no. 15, pp. 4191-4204, 2020. (<span style="color:red;">SCI Q1</span>)
+- J. Q. Pan, F. Luan, **Y. Q. Gao** and Y. J. Wei, “[FPGA-Based Implementation of Stochastic Configuration Network for Robotic Grasping Recognition](https://ieeexplore.ieee.org/document/9152009),” IEEE ACCESS, vol. 8, pp. 139966-139973, 2020. (<span style="color:red;">SCI Q1</span>)
 
+<!--  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +61,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
