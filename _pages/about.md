@@ -19,10 +19,11 @@ redirect_from:
 
 # 🎓 About Me
 
-I am a fourth year PhD student from [Department of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn), supervised by [Prof. Bing Hu](https://person.zju.edu.cn/hubing). I received my BE degree from [Department of Computer Science and Engineering](http://www.cse.neu.edu.cn), [Northeastern University](http://www.neu.edu.cn) in 2021. Currently, I am a visiting research scholar in [5G/6GIC](https://www.surrey.ac.uk/institute-communication-systems/5g-6g-innovation-centre) of [ICS](https://www.surrey.ac.uk/institute-communication-systems) at [University of Surrey](https://www.surrey.ac.uk/), supervised by [Prof. Rahim Tafazolli](https://www.surrey.ac.uk/people/rahim-tafazolli) (FREng, FIEEE), [Prof. Pei Xiao](https://www.surrey.ac.uk/people/pei-xiao) and [Dr. Mahdi Boloursaz Mashhadi](https://www.surrey.ac.uk/people/mahdi-boloursaz-mashhadi), and sponsored by China Scholarship Council (CSC).
+I am a fourth year PhD student from [Department of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn), supervised by [Prof. Bing Hu](https://person.zju.edu.cn/hubing). I received my BE degree from [Department of Computer Science and Engineering](http://www.cse.neu.edu.cn), [Northeastern University](http://www.neu.edu.cn) in 2021. Currently, I am a visiting researcher in [5G/6GIC](https://www.surrey.ac.uk/institute-communication-systems/5g-6g-innovation-centre) of [ICS](https://www.surrey.ac.uk/institute-communication-systems) at [University of Surrey](https://www.surrey.ac.uk/), supervised by [Prof. Rahim Tafazolli](https://www.surrey.ac.uk/people/rahim-tafazolli) (FREng, FIEEE), [Prof. Pei Xiao](https://www.surrey.ac.uk/people/pei-xiao) and [Dr. Mahdi Boloursaz Mashhadi](https://www.surrey.ac.uk/people/mahdi-boloursaz-mashhadi), and sponsored by China Scholarship Council (CSC).
 
+<!-- 
 My research interests include Distributed Machine Learning System, LLM Distributed Training/Inference and Federated/Split Learning. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🚀 Research Interests
 - Distributed Machine Learning System 
@@ -64,16 +65,36 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Zhejiang University Outstanding Graduate Student
+- *2024.07* Public Study Abroad approved by China Scholarship Council (CSC) 
+- *2022.10* Zhejiang University Triple A Graduate Student (3%)
+- *2022.10* Zhejiang University Outstanding Graduate Student
+- *2022.10* Zhejiang University New PhD Student Scholarship 
+- *2021.06* Outstanding Graduate of Liaoning Province (1%)
+- *2021.06* Outstanding Thesis of Northeastern University (1%)
+- *2020.11* National Second Prize of Intel Embedded System Invitation Competition
+- *2020.10* Postgraduate Recommendation to Zhejiang University 
+- *2020.10* China National Scholarship (1%) 
+- *2020.10* Northeastern University Outstanding Student (1%) 
+- *2019.10* Huawei Scholarship
+- *2019.06* Second Prize of Liaoning Province of China Electronic Design Competition
+- *2019.03* H Prize of the United States Mathematical Modelling Competition 
+- *2018.10* China National Scholarship (1%) 
+- *2018.10* Northeastern University Outstanding Student (1%)
+- *2018.06* First Prize of Liaoning Province Electronic Design Competition 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11 - now*, Visiting Researcher University of Surrey, Institute for Communication Systems, 5G/6G Innovation Centre  
+- *2021.09 - now*, Ph.D. Zhejiang University, Department of Information Science and Electronic Engineering 
+- *2017.09 - 2021.06*, B.S. Northeastern University, Department of Computer Science and Engineering 
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
