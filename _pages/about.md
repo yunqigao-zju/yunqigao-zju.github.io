@@ -89,7 +89,6 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 - *2017.09 - 2021.06*, B.S. Northeastern University, Department of Computer Science and Engineering 
 
 # 🌍 Visitor Map
-[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=avSSlIJR_7VyW55BGOF0bo7dC6Wb8nn9t6CGEsF2E6o&cl=ffffff)](https://clustrmaps.com/site/1c4q0)
 
 <!-- 
 # 💬 Invited Talks
