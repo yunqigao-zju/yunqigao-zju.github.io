@@ -32,7 +32,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 
 # 📝 Publications 
 ## 2025
-- **Y. Q. Gao**, Z. Zhang, B. Hu, M. B. Mashhadi, A. L. Jin and P. Xiao, “NetPlacer+: Model Parallelism based on Load Balance in Distributed Deep Learning,” *IEEE Transactions on Emerging Topics in Computational Intelligence*, , Accepted on Feb. 25, 2025. (<span style="color:red;">SCI Q1</span>)
+- **Y. Q. Gao**, Z. Zhang, B. Hu, M. B. Mashhadi, A. L. Jin and P. Xiao, “NetPlacer+: Model Parallelism based on Load Balance in Distributed Deep Learning,” *IEEE Transactions on Emerging Topics in Computational Intelligence*, Accepted on Feb. 25, 2025. (<span style="color:red;">SCI Q1</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, M. Bennis, “[PipeSFL: A Fine-Grained Parallelization Framework for Split Federated Learning on Heterogeneous Clients](https://ieeexplore.ieee.org/document/10740645),” *IEEE Transactions on Mobile Computing*, vol. 24, no. 3, pp. 1774-1791, 2025. (<span style="color:red;">CCF A, SCI Q1</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, R. Tafazolli, and M. Debbah, “[A Dynamic Sliding Window based Tensor Communication Scheduling Framework for Distributed Deep Learning](https://ieeexplore.ieee.org/document/10816583)," *IEEE Transactions on Network Science and Engineering*, vol. 12, no. 2, pp. 1080-1095, 2025. (<span style="color:red;">SCI Q1</span>)
 
