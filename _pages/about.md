@@ -27,8 +27,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 
 # 🚀 Research Interests
 - Distributed Machine Learning System 
-- LLM Distributed Training/Inference
-- Federated/Split Learning 
+- LLM Distributed Training/Inference 
 
 # 📝 Publications 
 ## 2025
