@@ -31,6 +31,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 
 # 📝 Publications 
 ## 2025
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, Y. F. Zhang, P. Xiao, R. Tafazolli, and M. Debbah, “FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training,” *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. (<span style="color:red;">CCF A</span>)
 - D. Yang, B. Hu, **Y. Q. Gao**, A. L. Jin, A. Liu, K. L. Yeung, and Y. You, “[HeaPS: Heterogeneity-aware Participant Selection for Efficient Federated Learning](https://www.sciencedirect.com/science/article/abs/pii/S0743731525001352?via%3Dihub),” *Journal of Parallel and Distributed Computing*, Accepted on Aug. 19, 2025. (<span style="color:red;">CCF B, SCI Q1</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, R. Tafazolli, and M. Debbah, “[PipeDAP: An Efficient Communication Framework for Scheduling Decoupled All-Reduce Primitives in Distributed DNN Training](https://ieeexplore.ieee.org/document/11021340),” *IEEE Transactions on Emerging Topics in Computing*, vol. 13, no. 3, pp. 1170-1184, 2025. (<span style="color:red;">SCI Q1</span>)
 - **Y. Q. Gao**, Z. Zhang, B. Hu, M. B. Mashhadi, A. L. Jin and P. Xiao, “[NetPlacer+: Model Parallelism based on Load Balance in Distributed Deep Learning](https://ieeexplore.ieee.org/document/10916805),” *IEEE Transactions on Emerging Topics in Computational Intelligence*, Accepted on Feb. 25, 2025. (<span style="color:red;">SCI Q1</span>)
