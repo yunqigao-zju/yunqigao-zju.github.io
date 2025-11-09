@@ -68,6 +68,8 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 -->
 
 # 🎖 Honors and Awards
+- *2025.10* China National Scholarship for PhD Students (1%)
+- *2025.10* Zhejiang University Outstanding Graduate Student
 - *2024.10* Zhejiang University Outstanding Graduate Student
 - *2024.07* Public Study Abroad approved by China Scholarship Council (CSC) 
 - *2022.10* Zhejiang University Triple A Graduate Student (3%)
