@@ -31,6 +31,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 
 # 📝 Publications 
 ## 2025
+- M. H. Chang, **Y. Q. Gao**, B. Hu, P. Xiao, C. M. Wu, and L. L. Yan, “[DFQ+: Dynamic Queuing for Approximate Fairness in Programmable Shared Memory Switches],” *Computer Networks*, 2025. (<span style="color:red;">CCF B, SCI Q1</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, Y. F. Zhang, P. Xiao, R. Tafazolli, and M. Debbah, “[FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training](https://arxiv.org/abs/2510.00207),” *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. (<span style="color:red;">CCF A</span>)
 - D. Yang, B. Hu, **Y. Q. Gao**, A. L. Jin, A. Liu, K. L. Yeung, and Y. You, “[HeaPS: Heterogeneity-aware Participant Selection for Efficient Federated Learning](https://www.sciencedirect.com/science/article/abs/pii/S0743731525001352?via%3Dihub),” *Journal of Parallel and Distributed Computing*, Accepted on Aug. 19, 2025. (<span style="color:red;">CCF B, SCI Q1</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, R. Tafazolli, and M. Debbah, “[PipeDAP: An Efficient Communication Framework for Scheduling Decoupled All-Reduce Primitives in Distributed DNN Training](https://ieeexplore.ieee.org/document/11021340),” *IEEE Transactions on Emerging Topics in Computing*, vol. 13, no. 3, pp. 1170-1184, 2025. (<span style="color:red;">SCI Q1</span>)
@@ -40,7 +41,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 - M. H. Chang, **Y. Q. Gao**, B. Hu, P. Xiao, S. C. Zhang, C. H. Gu, and Y. S. Liu, “[Dynamic Queuing for Approximate Fairness in Programmable Shared Memory Switches](https://ieeexplore.ieee.org/document/11038847)," *IEEE 26th International Conference on High Performance Switching and Routing (HPSR)*, 2025.
 
 ## 2024
-- D. Yang, **Y. Q. Gao**, B. Hu, A. L. Jin, W. Wang, and Y. You, “[GWPF: Communication-Efficient Federated Learning with Gradient-Wise Parameter Freezing](https://www.sciencedirect.com/science/article/pii/S1389128624007187),” *Elsevier Computer Networks*, vol. 255, no. 110886, 2024. (<span style="color:red;">CCF B, SCI Q1</span>)
+- D. Yang, **Y. Q. Gao**, B. Hu, A. L. Jin, W. Wang, and Y. You, “[GWPF: Communication-Efficient Federated Learning with Gradient-Wise Parameter Freezing](https://www.sciencedirect.com/science/article/pii/S1389128624007187),” *Computer Networks*, vol. 255, no. 110886, 2024. (<span style="color:red;">CCF B, SCI Q1</span>)
 - M. H. Chang, H. J. Lv, **Y. Q. Gao**, B. Hu, W. Wang, and Z. Yang, “[DGS: An Efficient Delay-Guaranteed Scheduling Framework for Wireless Deterministic Networking](https://ieeexplore.ieee.org/document/10669629),” *IEEE Transactions on Network and Service Management*, vol. 21, no. 6, pp. 6582-6596, 2024. (<span style="color:red;">CCF C, SCI Q1</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, P. Xiao, and C. M. Wu, “[US-Byte: An Efficient Communication Framework for Scheduling Unequal-sized Tensor Blocks in Distributed Deep Learning](https://ieeexplore.ieee.org/abstract/document/10314018),” *IEEE Transactions on Parallel and Distributed Systems*, Vol. 35, Issue. 1, pp. 123-139, 2024. (<span style="color:red;">CCF A, SCI Q1</span>)
 
