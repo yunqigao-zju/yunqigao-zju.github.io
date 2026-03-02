@@ -69,7 +69,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2025.10* China National Scholarship for PhD Students (1%)
 - *2025.10* Zhejiang University Outstanding Graduate Student
 - *2024.10* Zhejiang University Outstanding Graduate Student
