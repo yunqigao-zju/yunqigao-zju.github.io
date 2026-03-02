@@ -93,7 +93,18 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 # 📖 Educations
 - *2021.09 - now*, Ph.D. Zhejiang University, Department of Information Science and Electronic Engineering  
 - *2024.11 - 2025.11*, Visiting Researcher, University of Surrey, Institute for Communication Systems, 5G/6G Innovation Centre  
-- *2017.09 - 2021.06*, B.S. Northeastern University, Department of Computer Science and Engineering 
+- *2017.09 - 2021.06*, B.S. Northeastern University, Department of Computer Science and Engineering
+
+# ⚖️ Academic Service
+Reviewer for:
+- IEEE Journal on Selected Areas in Communications
+- IEEE Transactions on Mobile Computing
+- IEEE/ACM Transactions on Networking
+- IEEE Transactions on Computers
+- IEEE Transactions on Communications
+- IEEE Transactions on Cloud Computing
+- IEEE Transactions on Green Communications and Networking
+- IEEE Open Journal of the Communications Society  
 
 # 🌍 Visitor Map
 [![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=avSSlIJR_7VyW55BGOF0bo7dC6Wb8nn9t6CGEsF2E6o&cl=ffffff)](https://clustrmaps.com/site/1c4q0)
