@@ -47,10 +47,10 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, P. Xiao, and C. M. Wu, “[US-Byte: An Efficient Communication Framework for Scheduling Unequal-sized Tensor Blocks in Distributed Deep Learning](https://ieeexplore.ieee.org/abstract/document/10314018),” *IEEE Transactions on Parallel and Distributed Systems*, vol. 35, no. 1, pp. 123-139, 2024. (<span style="color:red;">CCF A, SCI Q1</span>)
 
 ## 2023
-- **Y. Q. Gao**, Z. C. Zhang, B. Hu, A. L. Jin, and C. M. Wu, “[OF-WFBP: A Near-optimal Communication Mechanism for Tensor Fusion in Distributed Deep Learning](https://www.sciencedirect.com/science/article/pii/S0167819123000595),” *Elsevier Parallel Computing*, vol. 118, p.103053, 2023. (<span style="color:red;">CCF B</span>)
+- **Y. Q. Gao**, Z. C. Zhang, B. Hu, A. L. Jin, and C. M. Wu, “[OF-WFBP: A Near-optimal Communication Mechanism for Tensor Fusion in Distributed Deep Learning](https://www.sciencedirect.com/science/article/pii/S0167819123000595),” *Parallel Computing*, vol. 118, p.103053, 2023. (<span style="color:red;">CCF B</span>)
 
 ## 2020
-- **Y. Q. Gao**, F. Luan, J. Q. Pan, X. Li, and Y. D. He, “[FPGA-Based Implementation of Stochastic Configuration Networks for Regression Prediction](https://www.mdpi.com/1424-8220/20/15/4191),” *MDPI SENSORS*, vol. 20, no. 15, pp. 4191-4204, 2020. (<span style="color:red;">SCI Q1</span>)
+- **Y. Q. Gao**, F. Luan, J. Q. Pan, X. Li, and Y. D. He, “[FPGA-Based Implementation of Stochastic Configuration Networks for Regression Prediction](https://www.mdpi.com/1424-8220/20/15/4191),” *SENSORS*, vol. 20, no. 15, pp. 4191-4204, 2020. (<span style="color:red;">SCI Q1</span>)
 - J. Q. Pan, F. Luan, **Y. Q. Gao** and Y. J. Wei, “[FPGA-Based Implementation of Stochastic Configuration Network for Robotic Grasping Recognition](https://ieeexplore.ieee.org/document/9152009),” *IEEE ACCESS*, vol. 8, pp. 139966-139973, 2020. (<span style="color:red;">SCI Q1</span>)
 
 <!--  
