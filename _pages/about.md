@@ -31,6 +31,9 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 - LLM Distributed Training/Inference 
 
 # 📝 Publications 
+## 2026
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, P. Xiao, R. Tafazolli, and M. Debbah, “BalanceMoE: An Efficient Dynamic Load Balance Framework to Accelerate Mixture-of-Expert Training,” *IEEE Transactions on Cloud Computing*, 2026. (<span style="color:red;">CCF B, SCI Q1</span>)
+
 ## 2025
 - M. H. Chang, **Y. Q. Gao**, B. Hu, P. Xiao, C. M. Wu, and L. L. Yan, “[DFQ+: Dynamic Queuing for Approximate Fairness in Programmable Shared Memory Switches](https://www.sciencedirect.com/science/article/abs/pii/S1389128625009107?via%3Dihub),” *Computer Networks*, vol. 275, p. 111945, 2025. (<span style="color:red;">CCF B, SCI Q1</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, A. L. Jin, Y. F. Zhang, P. Xiao, R. Tafazolli, and M. Debbah, “[FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training](https://arxiv.org/abs/2510.00207),” *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025. (<span style="color:red;">CCF A</span>)
