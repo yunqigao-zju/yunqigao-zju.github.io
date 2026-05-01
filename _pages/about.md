@@ -31,7 +31,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 - LLM Distributed Training/Inference 
 
 # 📝 Publications
-* below indicates equal contribution
+\* below indicates equal contribution
 ## 2026
 - Y. H. Han*, **Y. Q. Gao***, B. Hu, M. B. Mashhadi, Y. T. Duan, P. Xiao, and Y. F. Zhang, “PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding,” *The Forty-third International Conference on Machine Learning (ICML)*, 2026. (<span style="color:red;">CCF A</span>)
 - **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, P. Xiao, R. Tafazolli, and M. Debbah, “BalanceMoE: An Efficient Dynamic Load Balance Framework to Accelerate Mixture-of-Expert Training,” *IEEE Transactions on Cloud Computing*, 2026. (<span style="color:red;">CCF B, SCI Q1</span>)
