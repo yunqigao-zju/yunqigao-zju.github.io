@@ -34,7 +34,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 \* below indicates equal contribution
 ## 2026
 - Y. H. Han\*, **Y. Q. Gao\***, B. Hu, M. B. Mashhadi, Y. T. Duan, P. Xiao, and Y. F. Zhang, “PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding,” *The Forty-third International Conference on Machine Learning (ICML)*, 2026. (<span style="color:red;">CCF A</span>)
-- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, P. Xiao, R. Tafazolli, and M. Debbah, “BalanceMoE: An Efficient Dynamic Load Balance Framework to Accelerate Mixture-of-Expert Training,” *IEEE Transactions on Cloud Computing*, 2026. (<span style="color:red;">CCF B, SCI Q1</span>)
+- **Y. Q. Gao**, B. Hu, M. B. Mashhadi, W. Wang, P. Xiao, R. Tafazolli, and M. Debbah, “[BalanceMoE: An Efficient Dynamic Load Balance Framework to Accelerate Mixture-of-Expert Training](https://ieeexplore.ieee.org/abstract/document/11501770),” *IEEE Transactions on Cloud Computing*, 2026. (<span style="color:red;">CCF B, SCI Q1</span>)
 
 ## 2025
 - M. H. Chang, **Y. Q. Gao**, B. Hu, P. Xiao, C. M. Wu, and L. L. Yan, “[DFQ+: Dynamic Queuing for Approximate Fairness in Programmable Shared Memory Switches](https://www.sciencedirect.com/science/article/abs/pii/S1389128625009107?via%3Dihub),” *Computer Networks*, vol. 275, p. 111945, 2025. (<span style="color:red;">CCF B, SCI Q1</span>)
