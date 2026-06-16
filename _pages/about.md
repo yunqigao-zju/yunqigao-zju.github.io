@@ -112,10 +112,7 @@ Reviewer for:
 - IEEE Open Journal of the Communications Society  
 
 # 🌍 Visitor Map
-<!-- [![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=avSSlIJR_7VyW55BGOF0bo7dC6Wb8nn9t6CGEsF2E6o&cl=ffffff)](https://clustrmaps.com/site/1c4q0) -->
-<div align="center">
-  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=dI2BP_x-bP00kmes-fhFDq6hjUMNJNyFvhkGiLn1wkk"></script>
-</div>
+[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=avSSlIJR_7VyW55BGOF0bo7dC6Wb8nn9t6CGEsF2E6o&cl=ffffff)](https://clustrmaps.com/site/1c4q0)
 
 <!-- 
 # 💬 Invited Talks
