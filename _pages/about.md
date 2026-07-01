@@ -109,6 +109,7 @@ Reviewer for:
 - IEEE Transactions on Communications
 - IEEE Transactions on Cloud Computing
 - IEEE Transactions on Green Communications and Networking
+- IEEE Internet of Things Journal
 - IEEE Open Journal of the Communications Society  
 
 # 🌍 Visitor Map
