@@ -97,7 +97,7 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 - *2018.06* First Prize of Liaoning Province Electronic Design Competition 
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D. Zhejiang University, Department of Information Science and Electronic Engineering  
+- *2021.09 - 2026.06*, Ph.D. Zhejiang University, Department of Information Science and Electronic Engineering  
 - *2024.11 - 2025.11*, Visiting Researcher, University of Surrey, Institute for Communication Systems, 5G/6G Innovation Centre  
 - *2017.09 - 2021.06*, B.S. Northeastern University, Department of Computer Science and Engineering
 
