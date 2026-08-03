@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunqi Gao"
   avatar           : "images/yunqi_scholar.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Northeastern University"
+  location         : "Shenyang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0DV2-KMAAAAJ&hl=zh-CN&inst=15262737669262836719&oi=ao"
-  email            : "gaoyunqi1999@zju.edu.cn"
+  email            : "gaoyq@mail.neu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yunqi-Gao-6?ev=hdr_xprf"
   uri              : "https://yunqigao-zju.github.io/"
   bitbucket        :
