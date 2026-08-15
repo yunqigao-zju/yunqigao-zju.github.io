@@ -28,9 +28,9 @@ My research interests include Distributed Machine Learning System, LLM Distribut
 -->
 
 # 🚀 Research Interests
-- Distributed Machine Learning Systems
-- Artificial Intelligence of Things  
+- Machine Learning Systems
 - LLM Distributed Training/Inference 
+- Artificial Intelligence of Things  
 
 # 📝 Publications
 \* below indicates equal contribution
