@@ -116,9 +116,13 @@ Reviewer for:
 - IEEE Open Journal of the Communications Society  
 
 # 🌍 Visitor Map
-[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=avSSlIJR_7VyW55BGOF0bo7dC6Wb8nn9t6CGEsF2E6o&cl=ffffff)](https://clustrmaps.com/site/1c4q0)
+<a href="https://gitviewsmap.onrender.com/yunqigao-zju">
+  <img src="https://gitviewsmap.onrender.com/badge/yunqigao-zju.svg" alt="GitViewsMap Visitor Badge" />
+</a>
 
 <!-- 
+[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=avSSlIJR_7VyW55BGOF0bo7dC6Wb8nn9t6CGEsF2E6o&cl=ffffff)](https://clustrmaps.com/site/1c4q0)
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
